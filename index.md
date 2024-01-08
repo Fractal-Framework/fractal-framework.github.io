@@ -1,4 +1,4 @@
 ## Welcome!
 
-Welcome to the Fractal Toolkit pages!
-Here you can find all information about the Fractal project and its packages.
+Welcome to the Fractal Framework pages!
+Here you can find all documentation about the Fractal Framework and its packages.
